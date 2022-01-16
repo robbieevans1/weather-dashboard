@@ -1,0 +1,20 @@
+
+
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+nav {
+  background: #E7F10D;
+  background: -webkit-linear-gradient(top left, #E7F10D, #ADD8E6);
+  background: -moz-linear-gradient(top left, #E7F10D, #ADD8E6);
+  background: linear-gradient(to bottom right, #E7F10D, #ADD8E6);
+  font-weight: bold;
+}
+
+.column-1 {
+  background-color: lightsalmon;
+}
+
+.column-2 {background-color: lightgreen;}
